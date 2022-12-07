@@ -1,3 +1,22 @@
+.cards {
+  text-align: left;
+  margin-top: 47px;
+  margin-bottom: 67px;
+}
+
+.cards__list {
+  list-style: none;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, 282px);
+  gap: 20px 17px;
+  padding-top: 40px;
+  padding-right: 0px;
+  padding-bottom: 60px;
+  padding-left: 0px;
+  margin: 0;
+}
+
 .card {
   display: flex;
   flex-direction: column;

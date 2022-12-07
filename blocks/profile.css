@@ -97,7 +97,7 @@
 
   .profile__info {
     grid-template-columns: 10fr 1fr;
-    grid-column-gap: 10px;
+    column-gap: 10px;
     margin-top: 26.25px;
   }
 
@@ -120,7 +120,7 @@
   .profile__edit-button {
     width: 18px;
     height: 18px;
-    grid-column-gap: 10px;
+    column-gap: 10px;
   }
 
   .profile__add-button {
