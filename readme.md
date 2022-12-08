@@ -12,6 +12,6 @@ Below is a sample of the project for both desktop and mobile:
 
 The project has been uploaded to GitHub and can be found in the link below:
 
--[Link to the project on Github](https://github.com/dshearn/se_project_aroundtheus.git)
+-[Link to the project on Github](https://dshearn.github.io)
 
 - [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
