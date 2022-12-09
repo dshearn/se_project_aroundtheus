@@ -9,7 +9,7 @@
   grid-template-areas:
     "title button"
     "description description";
-  grid-template-columns: 14fr 1fr;
+  grid-template-columns: minmax(auto, 373px) auto;
   gap: 16px 18px;
 }
 
@@ -23,7 +23,7 @@
 }
 
 .profile__header {
-  max-width: 373px;
+  max-width: 400px;
   grid-area: title;
   margin: 0;
   text-overflow: ellipsis;
