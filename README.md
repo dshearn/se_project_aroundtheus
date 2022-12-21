@@ -1,16 +1,30 @@
-Project Name: Around The U.S.
+# Project 3: Around The U.S.
 
-This project's aim is to use a combination of techniques to allow a webpage to change it's display properties to maintain a clean format regardless of screen size or viewing device.
+**Intro**
 
-This responsvie design was achived using media queries, grid layouts, flexbox and html.
+This is the third project in the Practicum Software Engineer course. This was created using Html and CSS.
+This project focused on implementing responsive web design.
 
-Below is a sample of the project for both desktop and mobile:
+### Project features
 
--[Link to fullsize screenshot](https://github.com/dshearn/se_project_aroundtheus/blob/main/images/fullscreen.jpeg)
+- Semantic HTML 5
+- Flexbox and Grid
+- Positioning
+- Media queries
 
--[Link to mobile screenshot] (https://github.com/dshearn/se_project_aroundtheus/blob/main/images/mobilescreen.jpeg)
+**Figma**
 
-The project has been uploaded to GitHub and can be found in the link below:
+- [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
+
+**Images**
+
+![1280px view -project around the us](https://user-images.githubusercontent.com/114301131/201998181-c9ce1d29-638f-44b0-ae09-0d9dfe4d83bd.png)
+
+![880px view - project around the us](https://user-images.githubusercontent.com/114301131/201995990-8759cd54-dfa2-4f01-96bc-52abfcf660d8.png)
+
+![320px view- project around the us](https://user-images.githubusercontent.com/114301131/201998156-29538df8-9841-4534-9505-a69db753900b.png)
+
+**Github Pages **
 
 -[Link to the project on Github](https://dshearn.github.io)
 
